@@ -26,7 +26,7 @@ mi.dataset.driver.turbd_a.dcl.turbd_a_dcl_driver,/omc_data/whoi/OMC/CP10CNSM/R00
 mi.dataset.driver.velpt_ab.dcl.velpt_ab_dcl_recovered_driver,/omc_data/whoi/OMC/CP10CNSM/R00003/cg_data/dcl26/velpt1/*.velpt1.log,CP10CNSM-RID26-04-VELPTA000,recovered_host,Available,
 mi.dataset.driver.velpt_ab.velpt_ab_recovered_driver,/omc_data/whoi/OMC/CP10CNSM/R00003/instruments/dcl26/VELPT*/*.aqd,CP10CNSM-RID26-04-VELPTA000,recovered_inst,Available,
 mi.dataset.driver.phsen_gh.phsen_gh_driver,/omc_data/whoi/OMC/CP10CNSM/R00003/cg_data/dcl26/phsen1/*.phsen1.log,CP10CNSM-RID26-06-PHSENG000,recovered_host,Available,
-#,/omc_data/whoi/OMC/CP10CNSM/R00003/instruments/dcl26/PHSEN*/*.csv,CP10CNSM-RID26-06-PHSENG000,recovered_inst,Available,Parser not yet implemented
+#,/omc_data/whoi/OMC/CP10CNSM/R00003/instruments/dcl26/PHSEN*/*.csv,CP10CNSM-RID26-06-PHSENG000,recovered_inst,Expected,Parser not yet implemented
 mi.dataset.driver.suna.suna_dcl_driver,/omc_data/whoi/OMC/CP10CNSM/R00003/cg_data/dcl26/nutnr/*.nutnr.log,CP10CNSM-RID26-07-NUTNRB000,recovered_host,Available,
 mi.dataset.driver.suna.suna_instrument_driver,/omc_data/whoi/OMC/CP10CNSM/R00003/instruments/dcl26/NUTNR_sn*/DAT/*.CSV,CP10CNSM-RID26-07-NUTNRB000,recovered_inst,Available,
 mi.dataset.driver.spkir_abj.dcl.spkir_abj_dcl_recovered_driver,/omc_data/whoi/OMC/CP10CNSM/R00003/cg_data/dcl26/spkir2/*.spkir2.log,CP10CNSM-RID26-08-SPKIRB000,recovered_host,Available,
